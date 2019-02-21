@@ -1,0 +1,9 @@
+hello
+a.out
+out
+out.s
+*.o
+build/
+dlang
+.gdb_history
+TAGS
